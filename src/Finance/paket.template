@@ -1,0 +1,23 @@
+type project
+owners
+    Martin J. Lenardon
+authors 
+    Martin J. Lenardon
+projectUrl
+    http://github.com/L2Analytics/Finance
+iconUrl
+    https://raw.githubusercontent.com/L2Analytics/Finance/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/L2Analytics/Finance/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    
+summary
+    Tools for Financial calculations
+description
+    Tools for financial calculations
+
+
